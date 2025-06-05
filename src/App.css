@@ -1,38 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('C:/Users/Suyash Tambe/Downloads/frontend_app_DL/public/fabrizio-conti-z2BCD8Bgd9M-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Login Page Styles */
+.login-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  height: 100vh;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.6);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.login-container h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.login-container form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-container input {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+}
+
+.login-container button {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #7289da;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-container button:hover {
+  background-color: #5c6cce;
+}
+
+/* Mobile Adjustments */
+@media (max-width: 600px) {
+  .login-container h2 {
+    font-size: 1.5em;
   }
-  to {
-    transform: rotate(360deg);
+
+  .login-container form {
+    max-width: 90%;
+  }
+
+  .chat-container {
+    width: 100%;
+    height: 100vh;
   }
 }
+
+
+.chat-container {
+  width: 600px;
+  height: 500px;
+  background-color: rgba(44, 47, 51, 0.9);
+  color: #fff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+  margin: auto;
+}
+
+.chat-header {
+  background-color: #7289da;
+  padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.chat-box {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-bubble {
+  max-width: 75%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  line-height: 1.4;
+}
+
+.user {
+  align-self: flex-end;
+  background-color: #3a7bd5;
+  color: white;
+}
+
+.bot {
+  align-self: flex-start;
+  background-color: #000000;
+  color: #f1f1f1;
+}
+
+.chat-input {
+  display: flex;
+  border-top: 1px solid #444b52;
+  padding: 10px;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.chat-input button {
+  padding: 10px 15px;
+  background-color: #7289da;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Mobile View */
+@media (max-width: 768px) {
+  .chat-container {
+    width: 100%;
+    height: 100vh;
+    border-radius: 0;
+  }
+
+  .chat-header {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  .chat-box {
+    padding: 10px;
+  }
+
+  .chat-bubble {
+    font-size: 14px;
+    max-width: 90%;
+  }
+
+  .chat-input {
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  .chat-input input {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+
+  .chat-input button {
+    font-size: 16px;
+    padding: 10px;
+  }
+}
+.feedback-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.feedback-container p {
+  font-size: 1.2em;
+  color: white;
+}
+
+.stars {
+  display: inline-flex;
+  gap: 10px;
+}
+
+.star {
+  font-size: 2em;
+  cursor: pointer;
+  color: #ccc;
+  transition: color 0.3s;
+}
+
+.star.filled {
+  color: #ffcc00; /* Color for filled stars */
+}
+
+.star:hover {
+  color: #ffcc00;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5em;
+  }
+
+  .App-header p {
+    font-size: 1em;
+  }
+
+  .assist-text {
+    font-size: 1.8em;
+  }
+
+  .chat-container {
+    width: 90%;
+    height: 70vh;
+  }
+
+  .chat-box {
+    padding: 10px;
+  }
+
+  .chat-bubble {
+    font-size: 0.9em;
+    max-width: 90%;
+  }
+
+  .chat-input input {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .chat-input button {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .feedback-container p {
+    font-size: 1em;
+  }
+
+  .star {
+    font-size: 1.2em;
+  }
+}
+
