@@ -1,0 +1,674 @@
+{
+   "companies":[
+      {
+         "company_name":"Salesforce",
+         "policies":[
+            {
+               "id":"q1",
+               "question":"What is Salesforce's commitment to human rights?",
+               "answer":"Salesforce is committed to respecting human rights across its business and value chain, informed by the International Bill of Human Rights, the UN Guiding Principles on Business and Human Rights, and the OECD Guidelines for Multinational Enterprises. Salesforce engages with governments, partners, and civil society to support human rights.",
+               "topic":"Human Rights Commitment",
+               "tags":[
+                  "human rights",
+                  "commitment",
+                  "values",
+                  "principles"
+               ]
+            },
+            {
+               "id":"q2",
+               "question":"How does Salesforce implement human rights due diligence?",
+               "answer":"Salesforce integrates human rights due diligence by embedding commitment in business processes, assessing risks, and maintaining oversight through an internal governance structure. Remedy mechanisms are in place, alongside reporting processes to track performance and accountability.",
+               "topic":"Human Rights Due Diligence",
+               "tags":[
+                  "due diligence",
+                  "implementation",
+                  "governance",
+                  "oversight"
+               ],
+               "related_questions":[
+                  "What are Salesforce's human rights due diligence processes?",
+                  "Does Salesforce have a governance structure for human rights?"
+               ]
+            },
+            {
+               "id":"q3",
+               "question":"What is Salesforce's approach to privacy?",
+               "answer":"Salesforce views privacy as a fundamental right and has a privacy program aligned with global data protection laws. Salesforce regularly refines its privacy measures, including data processing transparency and protecting data security across cloud services.",
+               "topic":"Customer Privacy",
+               "tags":[
+                  "privacy",
+                  "data protection",
+                  "security",
+                  "customers"
+               ]
+            },
+            {
+               "id":"HR004",
+               "question":"How does Salesforce ensure ethical and inclusive product development?",
+               "answer":"Salesforce commits to ethical technology use, focusing on responsible AI, ethical use policy, accessibility, and inclusive design. Salesforce participates in AI ethics initiatives like the UNESCO Business Council for Ethics of AI.",
+               "topic":"Ethical and Inclusive Technology",
+               "tags":[
+                  "AI",
+                  "ethical technology",
+                  "inclusive design",
+                  "responsible AI"
+               ],
+               "related_questions":[
+                  "What is Salesforce's ethical stance on AI?",
+                  "How does Salesforce design inclusive products?"
+               ]
+            },
+            {
+               "id":"HR005",
+               "question":"What health and safety measures does Salesforce have for employees?",
+               "answer":"Salesforce promotes a safe work environment through health and safety management systems, open communication, and compliance with laws. Salesforce aims to prevent incidents and continually improve safety standards.",
+               "topic":"Employee Health and Safety",
+               "tags":[
+                  "health",
+                  "safety",
+                  "workplace",
+                  "employees"
+               ]
+            },
+            {
+               "id":"HR006",
+               "question":"What is Salesforce's policy on equality and non-discrimination?",
+               "answer":"Salesforce champions inclusiveness and diversity, with equal opportunity policies for all employees, irrespective of personal characteristics. Salesforce promotes pay equity and works against harassment and bullying in the workplace.",
+               "topic":"Equality and Non-Discrimination",
+               "tags":[
+                  "equality",
+                  "non-discrimination",
+                  "diversity",
+                  "workplace"
+               ],
+               "related_questions":[
+                  "How does Salesforce address workplace equality?",
+                  "Does Salesforce support diversity?"
+               ]
+            },
+            {
+               "id":"HR007",
+               "question":"What are Salesforce's commitments regarding forced and child labor?",
+               "answer":"Salesforce prohibits forced, bonded, or child labor and does not tolerate human trafficking. Salesforce's policies ensure voluntary labor, legal rights, and unrestricted movement for employees.",
+               "topic":"Labor Practices",
+               "tags":[
+                  "forced labor",
+                  "child labor",
+                  "human trafficking",
+                  "labor rights"
+               ]
+            },
+            {
+               "id":"HR008",
+               "question":"How does Salesforce engage with suppliers regarding human rights?",
+               "answer":"Salesforce expects suppliers to uphold human rights through its Global Supplier Code of Conduct. High-risk suppliers undergo regular audits, and corrective actions are taken when necessary.",
+               "topic":"Supplier Engagement",
+               "tags":[
+                  "suppliers",
+                  "human rights",
+                  "supplier code of conduct",
+                  "audits"
+               ]
+            },
+            {
+               "id":"HR009",
+               "question":"What is Salesforce's stance on environmental sustainability?",
+               "answer":"Salesforce supports environmental sustainability, advocating for climate action, decarbonization, and resource equity. Salesforce has several policy priorities focused on climate and nature conservation.",
+               "topic":"Environmental Sustainability",
+               "tags":[
+                  "environment",
+                  "sustainability",
+                  "climate",
+                  "resource equity"
+               ],
+               "related_questions":[
+                  "What are Salesforce's environmental commitments?",
+                  "How does Salesforce address climate change?"
+               ]
+            },
+            {
+               "id":"HR010",
+               "question":"How does Salesforce interact with Indigenous communities?",
+               "answer":"Salesforce respects Indigenous rights, supports decision-making in nature-based solutions, and upholds Free, Prior, and Informed Consent for local communities and Indigenous peoples.",
+               "topic":"Indigenous Rights",
+               "tags":[
+                  "indigenous rights",
+                  "communities",
+                  "FPIC",
+                  "sustainability"
+               ]
+            },
+            {
+               "id":"HR011",
+               "question":"What is Salesforce's process for grievance and remediation?",
+               "answer":"Salesforce provides a secure, confidential reporting line for grievances with non-retaliation commitments. Salesforce encourages good-faith reporting on potential policy violations and unethical conduct.",
+               "topic":"Grievance Mechanisms",
+               "tags":[
+                  "grievance",
+                  "remediation",
+                  "reporting",
+                  "ethics"
+               ],
+               "related_questions":[
+                  "How can I report a concern to Salesforce?",
+                  "What is Salesforce's process for addressing grievances?"
+               ]
+            }
+         ]
+      },
+      {
+         "company_name":"IBM",
+         "policies":[
+            {
+               "id":"BC001",
+               "question":"What is IBM's commitment regarding business conduct and ethics?",
+               "answer":"IBM is committed to conducting itself ethically and lawfully in all matters, maintaining high standards of business integrity.",
+               "topic":"Business Conduct and Ethics",
+               "tags":[
+                  "business conduct",
+                  "ethics",
+                  "integrity",
+                  "compliance"
+               ]
+            },
+            {
+               "id":"BC002",
+               "question":"What should employees do if they suspect a violation of IBM's guidelines?",
+               "answer":"Employees should consult their management immediately or report the violation through the Open Door or Speak-Up programs.",
+               "topic":"Business Conduct and Ethics",
+               "tags":[
+                  "reporting",
+                  "guidelines",
+                  "employee responsibility"
+               ]
+            },
+            {
+               "id":"R001",
+               "question":"What is IBM's policy on reciprocity in purchasing?",
+               "answer":"IBM's policy prohibits buying or selling on a reciprocity basis to ensure purchases are based on quality, price, and supplier reliability.",
+               "topic":"Reciprocity",
+               "tags":[
+                  "reciprocity",
+                  "purchasing policy",
+                  "supplier relationships"
+               ]
+            },
+            {
+               "id":"R002",
+               "question":"Why is reciprocity considered detrimental to IBM's business?",
+               "answer":"Using reciprocity could limit the supplier field and jeopardize product quality and pricing.",
+               "topic":"Reciprocity",
+               "tags":[
+                  "reciprocity",
+                  "business impact",
+                  "quality"
+               ]
+            },
+            { 
+               "id":"WD001",
+               "question":"How does IBM approach workforce diversity?",
+               "answer":"IBM prioritizes achieving the full potential of a diverse workforce through equal opportunity and an inclusive workplace.",
+               "topic":"Workforce Diversity",
+               "tags":[
+                  "diversity",
+                  "inclusion",
+                  "equal opportunity"
+               ]
+            },
+            {
+               "id":"WD002",
+               "question":"What characteristics does IBM not consider in hiring, promotion, and compensation?",
+               "answer":"IBM does not consider race, color, religion, sex, gender identity, sexual orientation, national origin, genetics, pregnancy, disability, age, and other characteristics.",
+               "topic":"Workforce Diversity",
+               "tags":[
+                  "equal treatment",
+                  "employment practices"
+               ]
+            },
+            {
+               "id":"HS001",
+               "question":"What is the main objective of IBM's health and safety management system?",
+               "answer":"The main objective is to provide a safe and healthy workplace and prevent injuries and illnesses.",
+               "topic":"Health and Safety",
+               "tags":[
+                  "health",
+                  "safety",
+                  "management system"
+               ]
+            },
+            {
+               "id":"HS002",
+               "question":"What are IBM's commitments regarding health and safety?",
+               "answer":"IBM is committed to complying with legal requirements, reducing risks by controlling hazards, and promoting participation in continuous improvement.",
+               "topic":"Health and Safety",
+               "tags":[
+                  "commitment",
+                  "legal compliance",
+                  "continuous improvement"
+               ]
+            },
+            {
+               "id":"DP001",
+               "question":"What is IBM's commitment to data privacy?",
+               "answer":"IBM is committed to protecting the privacy and confidentiality of Personal Information about employees, customers, business partners, and other identifiable individuals.",
+               "topic":"Data Privacy",
+               "tags":[
+                  "data privacy",
+                  "personal information",
+                  "confidentiality"
+               ]
+            },
+            {
+               "id":"DP002",
+               "question":"What principles guide IBM's data processing practices?",
+               "answer":"Key principles include fairness, purpose limitation, data minimization, accuracy, retention, disclosure, security, individual rights, custodianship, and accountability.",
+               "topic":"Data Privacy",
+               "tags":[
+                  "data processing",
+                  "principles",
+                  "governance"
+               ]
+            },
+            {
+               "id":"DBR001",
+               "question":"How does IBM support diverse businesses?",
+               "answer":"IBM provides diverse businesses the opportunity to participate in marketing, procurement, and contracting activities without regard to the owner's race, color, religion, gender, or other characteristics.",
+               "topic":"Diverse Business Relationships",
+               "tags":[
+                  "diverse businesses",
+                  "opportunity",
+                  "inclusion"
+               ]
+            },
+            {
+               "id":"DBR002",
+               "question":"What legal compliance does IBM follow in the United States regarding diverse businesses?",
+               "answer":"IBM complies with all applicable federal, state, and local laws, including those related to small businesses and minority-owned enterprises.",
+               "topic":"Diverse Business Relationships",
+               "tags":[
+                  "compliance",
+                  "laws",
+                  "diversity"
+               ]
+            },
+            {
+               "id":"EA001",
+               "question":"What is IBM's commitment to environmental affairs?",
+               "answer":"IBM is committed to environmental leadership, providing a safe workplace, protecting the environment, and conserving natural resources.",
+               "topic":"Environmental Affairs",
+               "tags":[
+                  "environment",
+                  "leadership",
+                  "conservation"
+               ]
+            },
+            {
+               "id":"EA002",
+               "question":"What specific actions does IBM take to uphold its environmental policy?",
+               "answer":"IBM aims to reduce waste, improve energy efficiency, ensure responsible use of energy, and comply with all applicable environmental regulations.",
+               "topic":"Environmental Affairs",
+               "tags":[
+                  "sustainability",
+                  "energy efficiency",
+                  "waste reduction"
+               ]
+            },
+            {
+               "id":"Q001",
+               "question":"What is IBM's commitment to quality?",
+               "answer":"IBM is committed to achieving the highest standards of quality, which forms the basis of its value proposition, brand image, and lasting relationships with clients. The company evaluates quality through client perception and aims to deliver value in every interaction.",
+               "topic":"Quality Commitment",
+               "tags":[
+                  "quality",
+                  "commitment",
+                  "client relations",
+                  "value proposition"
+               ]
+            },
+            {
+               "id":"Q002",
+               "question":"How does IBM measure success in terms of quality?",
+               "answer":"Success is measured by the client’s decision to choose and recommend IBM to their business partners, colleagues, and friends, alongside client feedback that informs improvements in experience and quality.",
+               "topic":"Quality Measurement",
+               "tags":[
+                  "success measurement",
+                  "client feedback",
+                  "improvement"
+               ]
+            },
+            {
+               "id":"Q003",
+               "question":"Who is responsible for driving quality goals at IBM?",
+               "answer":"IBM leaders are responsible for understanding client interactions, defining measurements and improvement targets, and driving actions to achieve quality goals. All IBM employees are expected to model the nine IBM practices.",
+               "topic":"Quality Responsibility",
+               "tags":[
+                  "leadership",
+                  "employee responsibility",
+                  "quality goals"
+               ]
+            },
+            {
+               "id":"P001",
+               "question":"What is IBM's policy on political participation?",
+               "answer":"IBM encourages participation in politics as private citizens, not as IBMers. The company does not make contributions of resources to political candidates or parties, applying this policy equally in all countries.",
+               "topic":"Politics",
+               "tags":[
+                  "political participation",
+                  "policy",
+                  "corporate responsibility"
+               ]
+            },
+            {
+               "id":"P002",
+               "question":"What accommodations does IBM provide for employees involved in political activities?",
+               "answer":"IBM accommodates employees who need to be away from work for political activities but does not pay for time off. Local laws regarding public office take precedence if they require paid time off.",
+               "topic":"Political Activities Accommodation",
+               "tags":[
+                  "accommodation",
+                  "political activity",
+                  "employee rights"
+               ]
+            },
+            {
+               "id":"P003",
+               "question":"What procedures does IBM have to avoid conflicts of interest for employees in government?",
+               "answer":"IBM has instituted procedures designed to avoid conflict of interest situations for employees holding government offices, which must be followed to ensure compliance.",
+               "topic":"Conflict of Interest",
+               "tags":[
+                  "conflict of interest",
+                  "government employees",
+                  "compliance"
+               ]
+            },
+            {
+               "id":"HR001",
+               "question":"What are IBM's human rights principles?",
+               "answer":"IBM is committed to high standards of corporate responsibility, including environmental responsibility and respect for human rights, informed by international standards such as the UN Guiding Principles on Business and Human Rights.",
+               "topic":"Human Rights Principles",
+               "tags":[
+                  "human rights",
+                  "corporate responsibility",
+                  "ethical standards"
+               ]
+            },
+            {
+               "id":"HR002",
+               "question":"How does IBM approach corporate responsibility?",
+               "answer":"IBM takes a thoughtful, comprehensive approach to corporate responsibility, focusing on support for employees and communities, environmental impact, supply chain management, and governance.",
+               "topic":"Corporate Responsibility",
+               "tags":[
+                  "corporate responsibility",
+                  "stakeholder engagement",
+                  "environmental impact"
+               ]
+            },
+            {
+               "id":"HR003",
+               "question":"What societal issues does IBM focus its engagement and programs on?",
+               "answer":"IBM focuses on community economic development, education, health, literacy, language, and culture to apply technology and talent to solve problems and advance human rights.",
+               "topic":"Societal Issues Engagement",
+               "tags":[
+                  "societal issues",
+                  "community development",
+                  "education"
+               ]
+            }
+         ]
+      },
+      {
+         "id":"EG001",
+         "question":"What are IBM's Business Conduct Guidelines?",
+         "answer":"IBM's Business Conduct Guidelines (BCGs) serve as the global code of conduct for employees, reflecting the company's commitment to high ethical conduct and decision-making, specifying standards of business ethics, values, and principles.",
+         "topic":"Business Conduct Guidelines",
+         "tags":[
+            "ethics",
+            "conduct",
+            "global standards"
+         ]
+      },
+      {
+         "id":"EG002",
+         "question":"What do IBM's Global Employment Standards entail?",
+         "answer":"The Global Employment Standards address important human rights issues and include commitments such as no forced or child labor, compliance with wage and hour laws, a discrimination-free work environment, and respect for employees' legal rights to join worker organizations.",
+         "topic":"Global Employment Standards",
+         "tags":[
+            "employment standards",
+            "human rights",
+            "ethical treatment"
+         ]
+      },
+      {
+         "id":"EG003",
+         "question":"How does IBM ensure compliance with its policies?",
+         "answer":"IBM trains employees and conducts regular business reviews to confirm compliance with policies, requiring employees to formally certify to the BCG and complete online, interactive training periodically.",
+         "topic":"Compliance Assurance",
+         "tags":[
+            "training",
+            "compliance",
+            "reviews"
+         ]
+      },
+      {
+         "id":"EG004",
+         "question":"What is IBM's policy regarding working with partners and suppliers?",
+         "answer":"IBM's Business Partner Code of Conduct sets minimum standards for business conduct with partners, including a coercion-free work environment. For suppliers, IBM uses the Responsible Business Alliance (RBA) Code of Conduct to ensure compliance across social responsibility areas.",
+         "topic":"Partnership and Supplier Policies",
+         "tags":[
+            "business partners",
+            "supply chain",
+            "RBA Code"
+         ]
+      },
+      {
+         "id":"EG005",
+         "question":"What communication channels does IBM provide for concerns and appeals?",
+         "answer":"IBM offers open communication channels for employee suggestions and complaints, including anonymous reporting for harassment or misconduct, and maintains similar channels for suppliers and partners to report concerns or violations.",
+         "topic":"Communication Channels",
+         "tags":[
+            "concerns",
+            "complaints",
+            "reporting"
+         ]
+      },
+      {
+         "id":"EG006",
+         "question":"How does IBM govern its corporate responsibility programs?",
+         "answer":"IBM's senior management is responsible for corporate responsibility programs, including human rights adherence. The IBM Board and CEO review these programs annually, supported by a Corporate Responsibility Executive Steering Committee and Working Group.",
+         "topic":"Governance of Corporate Responsibility",
+         "tags":[
+            "governance",
+            "corporate responsibility",
+            "leadership"
+         ]
+      },
+      {
+         "id":"EG007",
+         "question":"How does IBM engage with stakeholders on human rights and corporate responsibility?",
+         "answer":"IBM actively collaborates with stakeholders to influence human rights and corporate responsibility practices, viewing engagement as a partnership. The company reports on its initiatives through annual reports and publications.",
+         "topic":"Stakeholder Engagement",
+         "tags":[
+            "stakeholders",
+            "engagement",
+            "reporting"
+         ]
+      },
+      {
+         "id":"EG008",
+         "question":"What principles apply to IBM suppliers?",
+         "answer":"The IBM Supplier Conduct Principles govern relationships with suppliers, requiring compliance with high standards of corporate and social responsibility and sound business ethics, similar to those required of IBM employees.",
+         "topic":"Supplier Conduct Principles",
+         "tags":[
+            "suppliers",
+            "conduct principles",
+            "compliance"
+         ]
+},
+{
+   "id":"EP001",
+   "question":"What is IBM's stance on forced labor?",
+   "answer":"IBM prohibits the use of forced, bonded, or indentured labor, involuntary prison labor, slavery, or trafficking of persons. Workers must have freedom of movement and receive written employment agreements in their native language.",
+   "topic":"Freely Chosen Employment",
+   "tags":[
+      "forced labor",
+      "human rights",
+      "employment standards"
+   ]
+},
+{
+   "id":"EP002",
+   "question":"What are IBM's policies regarding young workers?",
+   "answer":"IBM does not use child labor, defined as any person under 16 or below the age for compulsory education. Employees under 18 must not perform work that jeopardizes their health or safety and will receive appropriate support and training.",
+   "topic":"Young Workers",
+   "tags":[
+      "child labor",
+      "youth employment",
+      "safety"
+   ]
+},
+{
+   "id":"EP003",
+   "question":"How does IBM handle wages and benefits?",
+   "answer":"IBM complies with all wage and hour laws, ensuring employees receive timely and clear pay statements. All labor is within local law limits regarding temporary, dispatch, and outsourced workers.",
+   "topic":"Wages and Benefits",
+   "tags":[
+      "wages",
+      "benefits",
+      "employment laws"
+   ]
+},
+{
+   "id":"EP004",
+   "question":"What are IBM's working hours policies?",
+   "answer":"IBM adheres to legal maximum working hours, limiting work to 60 hours per week unless in extraordinary circumstances. Employees must have at least one day off every seven days.",
+   "topic":"Working Hours",
+   "tags":[
+      "work hours",
+      "overtime",
+      "employee rights"
+   ]
+},
+{
+   "id":"EP005",
+   "question":"What is IBM's policy on non-discrimination and harassment?",
+   "answer":"IBM does not discriminate based on various factors including race, gender, and disability, and aims to create a harassment-free environment. Reasonable accommodations for religious practices are provided.",
+   "topic":"Non-discrimination and Harassment",
+   "tags":[
+      "diversity",
+      "inclusion",
+      "harassment prevention"
+   ]
+},
+{
+   "id":"EP006",
+   "question":"How does IBM ensure respect and dignity for its employees?",
+   "answer":"IBM treats all employees with respect, prohibiting corporal punishment or abuse. Clear disciplinary policies support these standards.",
+   "topic":"Respect and Dignity",
+   "tags":[
+      "employee treatment",
+      "workplace culture"
+   ]
+},
+{
+   "id":"EP007",
+   "question":"What are IBM's policies on freedom of association?",
+   "answer":"IBM respects employees' rights to join or refrain from joining labor organizations, ensuring they can communicate concerns without fear of discrimination or retaliation.",
+   "topic":"Freedom of Association",
+   "tags":[
+      "labor rights",
+      "employee rights",
+      "communication"
+   ]
+},
+{
+   "id":"EP008",
+   "question":"How does IBM promote health and safety?",
+   "answer":"IBM provides a safe and healthy workplace, complying with health and safety laws. Training is provided in employees' primary languages, and safety information is clearly posted.",
+   "topic":"Health and Safety",
+   "tags":[
+      "workplace safety",
+      "health standards"
+   ]
+},
+{
+   "id":"EP009",
+   "question":"What is IBM's commitment to environmental protection?",
+   "answer":"IBM operates in an environmentally protective manner, complying with applicable laws regarding chemical management, waste disposal, and other environmental standards.",
+   "topic":"Protection of the Environment",
+   "tags":[
+      "environmental responsibility",
+      "sustainability"
+   ]
+},
+{
+   "id":"EP010",
+   "question":"How does IBM ensure compliance with laws and regulations?",
+   "answer":"IBM commits to complying with all applicable laws, regulations, and other legal requirements in all business locations.",
+   "topic":"Laws and Regulations",
+   "tags":[
+      "legal compliance",
+      "business ethics"
+   ]
+},
+{
+   "id":"EP011",
+   "question":"What are IBM's expectations for ethical dealings?",
+   "answer":"IBM expects employees to conduct business according to high ethical standards and complies with the Foreign Corrupt Practices Act, prohibiting bribery and corruption.",
+   "topic":"Ethical Dealings",
+   "tags":[
+      "ethics",
+      "business conduct"
+   ]
+},
+{
+   "id":"EP012",
+   "question":"What communication channels are available for IBM employees?",
+   "answer":"IBM provides open communication channels for employee suggestions and complaints, including harassment issues, allowing for direct contact with corporate management.",
+   "topic":"Communications",
+   "tags":[
+      "communication",
+      "employee feedback"
+   ]
+},
+{
+   "id":"EP013",
+   "question":"How does IBM monitor and keep records of compliance?",
+   "answer":"IBM conducts business audits to ensure adherence to policies and keeps records in accordance with local laws.",
+   "topic":"Monitoring and Record Keeping",
+   "tags":[
+      "audit",
+      "compliance"
+   ]
+},
+{
+   "id":"EP014",
+   "question":"How does IBM protect employee privacy?",
+   "answer":"IBM is committed to protecting employee privacy, processing sensitive information in accordance with local laws and only with employee consent where required.",
+   "topic":"Privacy",
+   "tags":[
+      "data privacy",
+      "employee rights"
+   ]
+},
+{
+   "id":"EP015",
+   "question":"What support does IBM provide for community involvement?",
+   "answer":"IBM encourages community involvement through programs like On Demand Community, Community Grants, and Matching Grants to support employee volunteerism.",
+   "topic":"Support for Employees and Community Involvement",
+   "tags":[
+      "community engagement",
+      "employee programs"
+   ]
+},
+{
+   "id":"EP016",
+   "question":"What management systems does IBM have in place?",
+   "answer":"IBM's formal corporate policies, issued by senior management, govern company-wide actions and reflect the company’s values and management system.",
+   "topic":"Management System",
+   "tags":[
+      "corporate governance",
+      "management policies"
+   ]
+}
+]
+}
